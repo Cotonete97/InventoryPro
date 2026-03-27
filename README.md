@@ -1,6 +1,6 @@
 # InventoryPro
 
-Sistema em Python com interface Flet para controle de equipamentos e patrimônios com SQLite
+Sistema em Python com Flet e SQLite para controle de equipamentos e patrimônios, com geração de relatórios.
 
 ## Arquivos principais
 - main.py
