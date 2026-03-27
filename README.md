@@ -25,6 +25,7 @@ Sistema em Python com interface Flet para controle de equipamentos e patrimônio
 
 ## Como usar o programa
 1-Faça o login com qualquer senha(para fins didáticos, deixei qualquer senha como válida);
+
 2-Vá até a aba "suporte" do programa e siga as instruções que constam lá.
 
 ## Observação
